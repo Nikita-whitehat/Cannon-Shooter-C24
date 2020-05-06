@@ -1,1 +1,1 @@
-# Cannon-Shooter-C24
+# C24-project
