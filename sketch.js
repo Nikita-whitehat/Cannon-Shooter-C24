@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 
 // Creating various variable
 var engine,world;
-var take1;
+var take1
 var balls = [];
 
 
